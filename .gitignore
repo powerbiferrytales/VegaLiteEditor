@@ -1,6 +1,14 @@
-# Ignore everything except index.html
+# Ignore everything except site files
 *
 !index.html
+!vegalite.html
+!deneb.html
+!fpl.html
+!privacy.html
+!style.css
+!*.png
+!*.jpg
+!*.svg
 !.gitignore
 
 # Power BI / Deneb files (belong in a separate repo)
